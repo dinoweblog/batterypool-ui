@@ -16,6 +16,7 @@ const DocumentUploader = ({ setFile, file }) => {
 
   return (
     <div style={{ width: "50%", margin: "auto" }}>
+      <h2>Upload Invoice Document</h2>
       <div
         {...getRootProps()}
         className={`dropzone-container dropzone ${
