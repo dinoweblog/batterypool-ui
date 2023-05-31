@@ -16,3 +16,19 @@
   margin-top: 20px;
   color: #666;
 }
+
+table,
+td,
+th {
+  border: 1px solid black;
+  padding: 4px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  height: 30px;
+}
