@@ -1,0 +1,18 @@
+.dropzone-container {
+  border: 3px dashed #aaa;
+  padding: 20px;
+  background-color: #ededed;
+}
+
+.dropzone-content {
+  text-align: center;
+}
+
+.dropzone-container:hover {
+  border-color: #53e6c6;
+}
+
+.dropzone-message {
+  margin-top: 20px;
+  color: #666;
+}
